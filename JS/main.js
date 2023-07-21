@@ -63,6 +63,7 @@ const initApp = () => {
     event.target.classList.remove("height100");
   });
 };
+console.log(Hello!);
  */
 
 // PART 3
